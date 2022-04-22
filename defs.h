@@ -15,6 +15,8 @@
 #define INDEX_OF_SUBJ3 2
 #define MARK_3 3
 
+#define SURPRISE "Hello from sasha-sush"
+
 typedef struct SInfo
 {
     char *mName;
